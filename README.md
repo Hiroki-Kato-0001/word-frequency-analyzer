@@ -31,13 +31,7 @@ venv\Scripts\activate   # On Windows
 3. Install dependencies:
 pip install nltk
 
-4. Download required NLTK resources:
-import nltk
-nltk.download("punkt")
-nltk.download("stopwords")
-nltk.download("punkt_tab")
-
-5. Run the script:
+4. Run the script:
 python main.py
 
 ## 📝 Sample Output
