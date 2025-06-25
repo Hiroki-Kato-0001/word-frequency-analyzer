@@ -24,14 +24,10 @@ word_frequency_analyzer/
 git clone https://github.com/your-username/word_frequency_analyzer.git
 cd word_frequency_analyzer
 
-2. (Optional) Create a virtual environment:
-python -m venv venv
-venv\Scripts\activate   # On Windows
-
-3. Install dependencies:
+2. Install dependencies:
 pip install nltk
 
-4. Run the script:
+3. Run the script:
 python main.py
 
 ## 📝 Sample Output
